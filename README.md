@@ -32,12 +32,6 @@
   <li> <strong> Sqlite3 </strong> </li>
 </ul>
 
-### Telas
-
-![](imgs/print1.png)
-![](imgs/print2.png)
-![](imgs/print3.png)
-
 ## Licença
 [MIT](LICENSE)
 
